@@ -1,4 +1,4 @@
-# DeepFin20
+# DeepFin17
 Quantum of Sharpe
 Demonstration run at https://quantum-computing.ibm.com/
 with Dr Adam Makarucha of IBM
